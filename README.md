@@ -20,4 +20,12 @@ We should really aspire to increase the scope and scale of human consciousness i
 
 If you have any resources you want to share with me, please feel free to raise an Issue, or email me on srpatil@uci.edu.
 
+## Important Links
 
+[Imperial Library of Trantor (Normal link)](https://trantor.is/about/)
+
+[Imperial Library of Trantor (Tor link)](http://xfmro77i3lixucja.onion/)
+
+[The Z-Library (Normal link)](https://z-lib.org/)
+
+[The Z-Library (Tor link)](http://loginlibhuwhnmis.onion/)
